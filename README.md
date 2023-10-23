@@ -6,6 +6,6 @@ the results to them on the screen. This is a really easy application and doesnâ€
 need use of any particular package.
 
 ![Screenshot from 2023-10-23 12-52-04](https://github.com/PSitole/OIBSIP/assets/108081938/17c156db-a193-4f83-b9f9-09a99b1e3057)
+![Screenshot from 2023-10-23 12-52-30](https://github.com/PSitole/OIBSIP/assets/108081938/5000bcc7-7940-4d84-b578-a6c3f9e447ed)
 
-![Screenshot from 2023-10-23 12-52-30](htt![Screenshot from 2023-10-23 12-52-40](https://github.com/PSitole/OIBSIP/assets/108081938/115e33cf-b119-404c-ac15-146193c9ccc3)
-ps://github.com/PSitole/OIBSIP/assets/108081938/f0a3761f-909d-4864-91c9-77a37c595278)
+
